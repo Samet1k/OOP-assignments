@@ -1,0 +1,9 @@
+com\example\schoolmanagement\model\School.class
+com\example\schoolmanagement\repository\StudentRepository.class
+com\example\schoolmanagement\model\Student.class
+com\example\schoolmanagement\repository\TeacherRepository.class
+com\example\schoolmanagement\service\SchoolService.class
+com\example\schoolmanagement\model\Teacher.class
+com\example\schoolmanagement\controller\SchoolController.class
+com\example\schoolmanagement\repository\SchoolRepository.class
+com\example\schoolmanagement\SchoolManagementApplication.class
